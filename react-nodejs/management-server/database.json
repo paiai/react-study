@@ -1,0 +1,7 @@
+{
+    "hots":"localhost",
+    "user":"root",
+    "password":"dltjsdn",
+    "port":"3306",
+    "database":"management"
+}
